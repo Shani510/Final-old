@@ -1,0 +1,20 @@
+User stories:
+1.	As a logged-out user, I want to be able to login.
+2.	As a logged-in user, I want to see the list of to-dos I've previously created.  
+3.	As a logged-in user, I want to see the financial breakdown of all my monthly subscriptions.
+4.	As a logged-in user, I want to see the total amount subtracted from my bank account each month for subscriptions.
+5.	As a logged-in user, I want to be able to cancel any of my subscriptions on the platform.
+6.	As a user, I want to be reminded before a subscription is being renewed. 
+7.	As a user, I want to be able to see the remaining time before a subscription renewal.
+8.	As a user, I want to be able to see promotions offered on my subscriptions.
+9.	As a user, I want to create lists of friends who share my subscriptions.
+10.	As a user, I want to be able to register to new subscriptions using the platform.
+
+
+wireframes - 
+1.	Login view
+2.	Search for a subscription to add to the account.
+3.	The screen after you login - dashboard 
+
+
+ 
